@@ -8,8 +8,8 @@ Deliverable 2: Repeat the school district analysis
 
 
 
-![image](https://user-images.githubusercontent.com/86638388/149451531-8ddedd7e-3af4-4793-ac09-87a8c61cf3b1.png)
-![image](https://user-images.githubusercontent.com/86638388/149451917-1bc4420a-457d-4879-a481-1b7eea167e54.png)
+<img width="724" alt="PCA 1" src="https://user-images.githubusercontent.com/86638388/149452448-ac0a6bf4-034b-4254-9961-8128355a5939.png">
+
 
 
 Results
