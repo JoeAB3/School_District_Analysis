@@ -7,8 +7,10 @@ Deliverable 1: Replace ninth-grade reading and math scores
 Deliverable 2: Repeat the school district analysis
 
 
+<img width="771" alt="2022-01-13 (1)" src="https://user-images.githubusercontent.com/86638388/149452509-9c7f434e-f064-4a40-9fc5-673d9dca3387.png">
+<img width="573" alt="2022-01-13 (2)" src="https://user-images.githubusercontent.com/86638388/149452521-71006125-a228-464f-931e-403d4f9f8a1e.png">
 
-<img width="724" alt="PCA 1" src="https://user-images.githubusercontent.com/86638388/149452448-ac0a6bf4-034b-4254-9961-8128355a5939.png">
+
 
 
 
